@@ -1,4 +1,4 @@
-Check whether two array are equal?
+
 
 package SomePrograms;
 public class ArrayEqual {
